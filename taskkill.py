@@ -6,7 +6,7 @@ subprocess.call("TASKKILL /f /T /IM  msedgedriver.exe")
 # subprocess.call("TASKKILL /f /T /IM  cmd.exe")
 subprocess.call("TASKKILL /f /T /IM  conhost.exe")
 
-# subprocess.call("TASKKILL /f /T /IM  svchost.exe")#000システムエラーになる危険
+# subprocess.call("TASKKILL /f /T /IM  svchost.exe")#0000システムエラーになる危険
 
 
 
